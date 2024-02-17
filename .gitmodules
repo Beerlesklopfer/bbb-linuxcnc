@@ -10,3 +10,6 @@
 [submodule "openembedded-core"]
 	path = poky-nanbield/openembedded-core
 	url = https://github.com/openembedded/openembedded-core.git
+[submodule "meta-openembedded"]
+	path = poky-nanbield/meta-openembedded
+	url = https://github.com/openembedded/meta-openembedded.git
