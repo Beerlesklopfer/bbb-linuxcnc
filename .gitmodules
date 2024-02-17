@@ -1,0 +1,12 @@
+[submodule "poky-nanbield"]
+	path = poky-nanbield
+	url = https://github.com/yoctoproject/poky.git
+[submodule "meta-qt5"]
+	path = poky-nanbield/meta-qt5
+	url = https://github.com/meta-qt5/meta-qt5.git
+[submodule "meta-beagleboard"]
+	path = poky-nanbield/meta-beagleboard
+	url = https://github.com/beagleboard/meta-beagleboard.git
+[submodule "openembedded-core"]
+	path = poky-nanbield/openembedded-core
+	url = https://github.com/openembedded/openembedded-core.git
